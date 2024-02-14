@@ -19,11 +19,3 @@ WHERE
 ORDER BY id
 LIMIT $3
 OFFSET $4;
-
--- name: CreateEntry :one
-INSERT INTO entries (
-    account_id,
-    amount
-) VALUES (
-    $1, $2
-) RETURNING *;
