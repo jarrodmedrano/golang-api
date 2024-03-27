@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jarrodmedrano/simplebank/util"
+	"github.com/jarrodmedrano/golang-api/util"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,4 +1,4 @@
-module github.com/jarrodmedrano/simplebank
+module github.com/jarrodmedrano/golang-api
 
 go 1.14
 

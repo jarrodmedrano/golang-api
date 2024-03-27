@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/jarrodmedrano/simplebank/api"
-	db "github.com/jarrodmedrano/simplebank/db/sqlc"
+	"github.com/jarrodmedrano/golang-api/api"
+	db "github.com/jarrodmedrano/golang-api/db/sqlc"
 	_ "github.com/lib/pq"
 )
 
