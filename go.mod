@@ -11,6 +11,7 @@ require (
 	github.com/lib/pq v1.7.0
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.0 // indirect
+	github.com/spf13/viper v1.18.2 // indirect
 	github.com/stretchr/testify v1.9.0
 	github.com/ugorji/go/codec v1.2.12 // indirect
 	golang.org/x/arch v0.7.0 // indirect
